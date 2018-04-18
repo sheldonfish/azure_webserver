@@ -4,7 +4,7 @@ description: >-
   Cloud Service with Ubuntu VM + Django + Nginx + Uwsgi
 ---
 
-# Azure web server project
+# Azure project: web server
 
 ```text
 # Last updated in Apr 2018.
