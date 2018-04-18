@@ -4,7 +4,7 @@ description: >-
   Azure Cloud Service with Ubuntu VM + Django + Nginx + Uwsgi
 ---
 
-# Azure-UbuntuVM-Django-Nginx-Uwsgi
+# Azure web server project
 
 ```text
 # Last updated in Apr 2018.
