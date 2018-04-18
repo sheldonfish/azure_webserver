@@ -1,7 +1,7 @@
 ---
 description: >-
-  Step-by-step self-learning project on building your own website server using
-  Azure Cloud Service with Ubuntu VM + Django + Nginx + Uwsgi
+  Step-by-step self-learning project on building a website server using Azure
+  Cloud Service with Ubuntu VM + Django + Nginx + Uwsgi
 ---
 
 # Azure web server project
