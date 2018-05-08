@@ -10,5 +10,5 @@ description: >-
 # Last updated in Apr 2018.
 ```
 
-![](.gitbook/assets/frontpage.png)
+![](.gitbook/assets/frontpage%20%281%29.png)
 
